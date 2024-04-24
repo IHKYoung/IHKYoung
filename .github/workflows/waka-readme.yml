@@ -1,0 +1,43 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: IHKYoung/IHKYoung # optional
+          ### content
+          SHOW_TITLE: true # false, true
+          SECTION_NAME: CodingTime # any alphanumeric string
+          BLOCKS: ░▒▓█ # ░▒▓█, ⣀⣄⣤⣦⣶⣷⣿, -#, =>
+          CODE_LANG: python # txt, python ruby json, rust
+          TIME_RANGE: all_time # last_7_days, last_30_days, last_6_months, last_year, all_time
+          LANG_COUNT: 10 # any plausible number
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: Binary #  , Binary YAML JSON TOML
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: CKYoung # optional
+          AUTHOR_EMAIL: iyangkun@ruc.edu.com # optional
+          # you can populate email-id with secretes instead
