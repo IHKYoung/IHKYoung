@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 75 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -97,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2024 00:56:08 UTC
+ Last Updated on 11/05/2024 00:55:44 UTC
 <!--END_SECTION:waka-->
