@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 ### CodingTody
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 75 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 01:00:43 UTC
+ Last Updated on 13/05/2024 00:57:50 UTC
 <!--END_SECTION:waka-->
