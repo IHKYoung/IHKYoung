@@ -61,18 +61,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      16 mins             ████████████████████████░   97.93 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MoStereoCamROSTool       11 mins             █████████████████░░░░░░░░   67.95 % 
-MoInfo2GSBag             5 mins              ████████░░░░░░░░░░░░░░░░░   32.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 00:59:25 UTC
+ Last Updated on 04/06/2024 00:58:58 UTC
 <!--END_SECTION:waka-->
