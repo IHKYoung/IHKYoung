@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### CodingTody
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2024 01:00:02 UTC
+ Last Updated on 19/06/2024 01:00:04 UTC
 <!--END_SECTION:waka-->
