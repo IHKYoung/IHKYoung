@@ -61,18 +61,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 mins             ██████████████████░░░░░░░   72.57 % 
-C++                      7 mins              ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-StereoONNXInference      20 mins             ██████████████████░░░░░░░   72.57 % 
-CKNew                    7 mins              ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,5 +90,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2024 01:01:02 UTC
+ Last Updated on 25/06/2024 00:59:40 UTC
 <!--END_SECTION:waka-->
