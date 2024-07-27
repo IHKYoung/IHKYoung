@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### CodingTody
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,17 +61,18 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   98.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Python                   1 hr 56 mins        ████████████████████████░   94.70 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PointCloudToolbox        9 mins              █████████████████████████   100.00 % 
+PointCloudToolbox        2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -91,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 01:01:06 UTC
+ Last Updated on 27/07/2024 01:01:04 UTC
 <!--END_SECTION:waka-->
