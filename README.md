@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -61,16 +59,22 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 17 mins       █████████████████████████   98.96 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+3DGSMT                   3 hrs 17 mins       ███████████████████░░░░░░   75.95 % 
+3DGSMTGit                48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+gaussian-splatting       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PointCloudToolbox        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+GS_pre                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 4 mins        ███████████████████████░░   93.90 % 
+Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,5 +94,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IHKYoung/IHKYoung/baseline/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2024 01:09:51 UTC
+ Last Updated on 09/10/2024 01:09:33 UTC
 <!--END_SECTION:waka-->
